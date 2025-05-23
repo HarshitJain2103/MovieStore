@@ -1,50 +1,53 @@
-# Welcome to your Expo app 👋
+# 🎬 MovieStore - A React Native Movie App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Developed by Harshit Jain**
 
-## Get started
+MovieStore is a modern mobile app built with **React Native (Expo)** and **Typescript** that allows users to discover and search for movies using the **TMDB API**. It also tracks search activity using **Appwrite** to dynamically display trending movies based on user interest.
 
-1. Install dependencies
+> 🚧 This app is currently in active development.
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 🚀 Features
 
-   ```bash
-   npx expo start
-   ```
+- 🔍 **Search Movies** — Find movies by title using the TMDB API.
+- 📈 **Trending Section** — See what's hot, based on real-time search trends (via Appwrite).
+- 🌀 **Responsive UI** — Styled using Tailwind CSS for a clean and consistent design.
+- 📱 **Cross-platform Ready** — Built with Expo for easy testing and deployment.
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🛠️ Tech Stack
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **React Native with Expo**
+- **Typescript**
+- **Tailwind CSS (via nativewind)**
+- **TMDB API**
+- **Appwrite** (for tracking and trending)
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 📈 Roadmap
 
-```bash
-npm run reset-project
-```
+- [x] Search functionality
+- [x] Trending movies using Appwrite
+- [ ] Movie detail screen
+- [ ] User authentication
+- [ ] Favorites/watchlist
+- [ ] UI polish and animations
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 📸 Screenshots
 
-To learn more about developing your project with Expo, look at the following resources:
+> *(Add screenshots or mockups here once available)*
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## 👨‍💻 Developer
 
-Join our community of developers creating universal apps.
+**Harshit Jain**  
+📧 jainharshit2132005@gmail.com 
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
