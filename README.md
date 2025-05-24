@@ -31,7 +31,7 @@ MovieStore is a modern mobile app built with **React Native (Expo)** and **Types
 
 - [x] Search functionality
 - [x] Trending movies using Appwrite
-- [ ] Movie detail screen
+- [x] Movie detail screen
 - [ ] User authentication
 - [ ] Favorites/watchlist
 - [ ] UI polish and animations
